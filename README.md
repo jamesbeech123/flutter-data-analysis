@@ -2,7 +2,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.13-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-Analytics-orange)
-![Build Status](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/flutter.yml/badge.svg)
+![Build Status](https://github.com/jamesbeech123/actions/workflows/flutter.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A **Flutter-based mobile app** for task management, fully integrated with **Firebase Analytics**, with future plans to incorporate **Python-based data analysis** for actionable insights.
@@ -19,7 +19,6 @@ A **Flutter-based mobile app** for task management, fully integrated with **Fire
 
 ![Task Page](screenshots/task_page.png)
 
-*(Add more screenshots here if available)*
 
 ## Getting Started
 

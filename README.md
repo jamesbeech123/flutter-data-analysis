@@ -16,7 +16,7 @@ A **Flutter-based mobile app** for task management, fully integrated with **Fire
 
 ## Screenshots
 
-![Task Page](screenshots/task_page.png)
+![Task Page](student_work_tracker/screenshots/task_page.png)
 
 
 ## Getting Started

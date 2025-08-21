@@ -12,7 +12,7 @@ A **Flutter-based mobile app** for task management, fully integrated with **Fire
 - Automatically log analytics events for every task action: `task_added`, `task_updated`, `task_deleted`.  
 - Fully responsive design for Android and iOS.  
 - Firebase integration for real-time analytics and potential cloud features.  
-- Upcoming: Python analysis to generate insights from user behavior.
+- Python analysis to generate insights from user behavior.
 
 ## Screenshots
 
@@ -78,10 +78,6 @@ These events will help generate insights in the upcoming Python data analysis mo
 
 ## Future Work
 
-- Integrate Python scripts for analyzing user task patterns
-
-- Generate visual reports of task trends
-
 - Provide predictive suggestions based on user behavior
 
 ## Tech Stack
@@ -90,6 +86,6 @@ Flutter & Dart
 
 Firebase Analytics
 
-Python (planned for data analysis)
+Python 
 
 

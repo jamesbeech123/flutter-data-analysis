@@ -16,7 +16,15 @@ A **Flutter-based mobile app** for task management, fully integrated with **Fire
 
 ## Screenshots
 
-![Task Page](screenshots/task_page.png)
+![Task Page](student_work_tracker/screenshots/task_page.png)
+
+### Firebase Analytics Event Counts
+
+![Event Counts](student_work_tracker/screenshots/event_counts.png)
+
+### Events Per Active User
+
+![Events Per Active User](student_work_tracker/screenshots/events_per_user.png)
 
 
 ## Getting Started

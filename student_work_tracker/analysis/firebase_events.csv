@@ -1,0 +1,17 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Default Account for Firebase
+# Property: task-manager-analytics
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20250724
+# End date: 20250820
+Event name,Event count,Total users,Event count per active user,Total revenue
+task_added,5,3,1.6666666666666667,0
+first_visit,3,3,1,0
+page_view,3,3,1,0
+session_start,3,3,1,0
+task_updated,2,2,1,0
+task_deleted,1,1,1,0
+user_engagement,1,1,1,0

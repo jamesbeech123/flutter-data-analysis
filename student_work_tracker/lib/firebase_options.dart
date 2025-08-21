@@ -40,6 +40,49 @@ class DefaultFirebaseOptions {
     }
   }
 
- 
+  static const FirebaseOptions web = FirebaseOptions(
+    apiKey: 'AIzaSyBrRJt7G-mTCF6i0dSTcEuMgZE2SPxcTdU',
+    appId: '1:554727876397:web:190afd760808f8d78855a4',
+    messagingSenderId: '554727876397',
+    projectId: 'task-manager-analytics',
+    authDomain: 'task-manager-analytics.firebaseapp.com',
+    storageBucket: 'task-manager-analytics.firebasestorage.app',
+    measurementId: 'G-PKCFXBR4LY',
+  );
+
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyDW79TxxeV5DKKNvWpytphdiDFL8pWJdpU',
+    appId: '1:554727876397:android:dbbd16e6adb085e38855a4',
+    messagingSenderId: '554727876397',
+    projectId: 'task-manager-analytics',
+    storageBucket: 'task-manager-analytics.firebasestorage.app',
+  );
+
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'AIzaSyDWes9yguK1jgMP7_OnPJA1BzayP9ywfNI',
+    appId: '1:554727876397:ios:64a02eb457dded298855a4',
+    messagingSenderId: '554727876397',
+    projectId: 'task-manager-analytics',
+    storageBucket: 'task-manager-analytics.firebasestorage.app',
+    iosBundleId: 'com.example.studentWorkTracker',
+  );
+
+  static const FirebaseOptions macos = FirebaseOptions(
+    apiKey: 'AIzaSyDWes9yguK1jgMP7_OnPJA1BzayP9ywfNI',
+    appId: '1:554727876397:ios:64a02eb457dded298855a4',
+    messagingSenderId: '554727876397',
+    projectId: 'task-manager-analytics',
+    storageBucket: 'task-manager-analytics.firebasestorage.app',
+    iosBundleId: 'com.example.studentWorkTracker',
+  );
+
+  static const FirebaseOptions windows = FirebaseOptions(
+    apiKey: 'AIzaSyBrRJt7G-mTCF6i0dSTcEuMgZE2SPxcTdU',
+    appId: '1:554727876397:web:b266dc328c22ffaf8855a4',
+    messagingSenderId: '554727876397',
+    projectId: 'task-manager-analytics',
+    authDomain: 'task-manager-analytics.firebaseapp.com',
+    storageBucket: 'task-manager-analytics.firebasestorage.app',
+    measurementId: 'G-ZEG3XGPG83',
   );
 }
